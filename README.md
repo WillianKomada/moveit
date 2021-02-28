@@ -43,3 +43,17 @@ $ yarn install
 # Iniciar o projeto
 $ yarn dev
 ```
+
+## 📷 Imagens do Projeto
+
+O projeto basicamente tem 3 processos.
+
+Em sequência temos a tela inicial, podendo iniciar o contador de tempo. 
+
+Assim que o tempo terminar, você recebe um desafio para fazer ou não fazer.
+
+E ao completar o desafio você pode receber experiência, upar de nível e aumentar a quantidade de desafios feitos.
+
+<img src="https://ik.imagekit.io/cucgno2zqys/inicia_countdown_NalCXA9Tq.PNG" alt="Iniciar Countdown">
+<img src="https://ik.imagekit.io/cucgno2zqys/Recebe_desafio_8oA-gyJ3J.PNG" alt="Recebe desafio">
+<img src="https://ik.imagekit.io/cucgno2zqys/Upa_de_nivel_8zJJ7FRJ4.PNG" alt="Upou de nível">
